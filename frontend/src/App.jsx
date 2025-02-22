@@ -12,7 +12,7 @@ import Settings from "./components/Settings/Settings.jsx";
 import Signup from "./pages/signupLogin.jsx";
 import Footer from "./components/Footer.jsx";
 
-import { useAuthStore } from "./Store/useAuthstore.js";
+import { useAuthStore } from "./Store/useAuthstore";
 
 import "./App.css";
 
